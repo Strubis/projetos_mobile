@@ -8,4 +8,6 @@ Repositório para os projetos mobile. Para rodar você terá que instalar o que 
 * Talvez será necessário retirar a importação do ´Node´ no arquivo ´App.js´ e todas as suas referências.
 	
 ## Projeto01
-Loading...
+Pronto! Projeto foi realizado sem utilizar a linguagem Flutter
+
+OBS.: Alguns projetos que constam aqui utilizam a linguagem de programação Flutter, para rodar você precisará seguir o passo a passo que o próprio site oficial disponibiliza.
