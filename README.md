@@ -11,3 +11,6 @@ Repositório para os projetos mobile. Para rodar você terá que instalar o que 
 Pronto! Projeto foi realizado sem utilizar a linguagem Flutter
 
 OBS.: Alguns projetos que constam aqui utilizam a linguagem de programação Flutter, para rodar você precisará seguir o passo a passo que o próprio site oficial disponibiliza.
+
+## OBS.:
+A partir do mini_projeto_04 e do flutter-application_5, somente as pastas lib e imagens sofreram upload. Para testar basta criar um novo projeto em flutter e adicionar as pastas.
